@@ -1,0 +1,1 @@
+Criando Readme para repositorio de casas e automaçoes!!!!
