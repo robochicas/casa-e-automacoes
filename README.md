@@ -1,3 +1,11 @@
+# Sobre o Projeto
+
+Esse é um projeto criado pelo clube [@robochicass](https://www.instagram.com/robochicass/) para difundir  conhecimento eletrônica, programação e robótica de maneira gratuita. 
+
+Esse projeto é mantido por voluntários em uma campanha de [financiamento coletivo]().
+
+## Sobre o repositório
+
 Nesse repositório se encontram slides e códigos que foram apresentados durante a oficina
 
 - Em [Código](./codigo), você pode acessar o código fonte dos projetos que foram criados e desenvolvidos durante a oficina
