@@ -6,11 +6,11 @@ Esse projeto é mantido por voluntários em uma campanha de [financiamento colet
 
 ## Sobre o repositório
 
-Nesse repositório se encontram slides e códigos que foram apresentados durante a oficina
+Nesse repositório encontram-se os slides e códigos que foram apresentados durante a oficina
 
 - Em [Código](./codigo), você pode acessar o código fonte dos projetos que foram criados e desenvolvidos durante a oficina
 
-- Em [slides](./slides), você pode acessar os slides de explicação da oficina, caso tenha ficado com alguma dúvida ou queira rever o conteúdo novamente
+- Em [slides](./slide), você pode acessar os slides de explicação da oficina, caso tenha ficado com alguma dúvida ou queira rever o conteúdo novamente
 
 
 ## Nossa comunidade
@@ -21,7 +21,7 @@ Porém você pode nos encontrar em outras redes:
 
 - [Instagram](https://www.instagram.com/robochicass/)
 - [Linkedin](https://www.linkedin.com/company/robôchicas/)
-
+- [Comunidade no Whatapp](https://chat.whatsapp.com/FptS05VtbbYGlYyKElf0yi)
 
 ## Como sugerir temas para próximas oficinas?
 
