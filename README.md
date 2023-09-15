@@ -1,8 +1,8 @@
 # Sobre o Projeto
 
-Esse é um projeto criado pelo clube [@robochicass](https://www.instagram.com/robochicass/) para difundir  conhecimento eletrônica, programação e robótica de maneira gratuita. 
+Esse é um projeto criado pelo clube [@robochicass](https://www.instagram.com/robochicass/) na Universidade Federal da Bahiapara difundir  conhecimento eletrônica, programação e robótica de maneira gratuita. 
 
-Esse projeto é mantido por voluntários em uma campanha de [financiamento coletivo]().
+Esse projeto é mantido por voluntários, estudantes, professores e entusiastas, em uma campanha de [financiamento coletivo]().
 
 ## Sobre o repositório
 
